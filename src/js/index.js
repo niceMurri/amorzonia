@@ -19,9 +19,6 @@ class MobileMenu {
     });
   }
 
-  animateLinks() {
-    
-  }
 }
 
 const mobileMenu = new MobileMenu(
